@@ -1,0 +1,5 @@
+name: Statamic-Future
+version: '1.0'
+description: 'Loops through an array of future dates, days, months, or years'
+developer: 'Taylor Collins'
+developer_url: 'https://endif.io'
